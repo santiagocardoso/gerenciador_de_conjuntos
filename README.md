@@ -1,4 +1,4 @@
-# gerenciamento_de_conjuntos
+# gerenciador_de_conjuntos
 projeto de programação em c
 
 O objetivo do trabalho é implementar um programa que gerencie uma 
