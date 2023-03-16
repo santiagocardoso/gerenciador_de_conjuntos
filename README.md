@@ -16,9 +16,11 @@ portanto, não é considerado como um valor válido.
 O programa fornece o seguinte menu de opções:
 1. Criar um novo conjunto vazio;
 2. Inserir dados em um conjunto: o usuário deve informar o índice i do conjunto 
-em que deseja fazer a inserção.    a. O usuário pode inserir vários valores na sequência; o processo se encerra 
+em que deseja fazer a inserção.  
+  a. O usuário pode inserir vários valores na sequência; o processo se encerra 
 quando é digitado o valor zero ou quando se atingiu a quantidade N 
-(número de colunas da matriz).    b. Como um conjunto deve possuir valores distintos, o programa não considerará valores repetidos.
+(número de colunas da matriz).  
+  b. Como um conjunto deve possuir valores distintos, o programa não considerará valores repetidos.  
 3. Remover um conjunto;
 4. Fazer a união entre dois conjuntos: o usuário deve informar os índices dos 
 conjuntos que fazem parte dessa operação; o conjunto resultante é adicionado à 
